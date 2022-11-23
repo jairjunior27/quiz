@@ -14,8 +14,8 @@ let questoes = [
 
   {
     questao: "Quanto é a metade de 2 + 4 ?",
-    opcao: ["3", "2.5", "2", "1", "4"],
-    resposta: 1
+    opcao: ["3", "2.5", "2", "1", "5"],
+    resposta: 4
   },
 
   {
